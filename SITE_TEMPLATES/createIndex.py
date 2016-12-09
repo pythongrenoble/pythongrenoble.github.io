@@ -62,6 +62,12 @@ from jinja2.environment import Environment
 
 future_events = [
 
+
+]
+
+
+past_events = [
+
     { ## ---- Dec. 2016 ------------------------------------------------------------ ##
       "aname": "2016-Dec",
       "name":  "7 Dec 2016",
@@ -70,17 +76,12 @@ future_events = [
         {
           "speaker":     "Arthur Vuillard",
           "title":       "Premiers pas pour assurer la qualite de vos applications",
-          "slides_url":   "https://static.hashbang.fr/20161016_qualit%C3%A9/#1",
+          "slides_url":   "https://static.hashbang.fr/20161207_qualit%C3%A9/#1",
           "slides_image": "images/2016/2016-Dec_ArthurV_Qualite.png",
           "code":         "",
         },
        ],
     },
-
-]
-
-
-past_events = [
 
     { ## ---- May. 2016 ------------------------------------------------------------ ##
       "aname": "2016-May",
