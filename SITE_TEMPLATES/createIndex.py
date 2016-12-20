@@ -62,6 +62,62 @@ from jinja2.environment import Environment
 
 future_events = [
 
+    { ## ---- Jan. 2016 ------------------------------------------------------------ ##
+      "aname": "2016-Jan",
+      "name":  "18 Jan 2016",
+      "meetup_url": "https://www.meetup.com/Groupe-dutilisateurs-Python-Grenoble/events/236361289/",
+      "talks": [
+        {
+          "speaker":     "Mike Bright",
+          "title":       "Functional Python",
+          "slides_url":   "",
+          "slides_image": "",
+          "code":         "",
+        },
+       ],
+    },
+    { ## ---- Feb. 2016 ------------------------------------------------------------ ##
+      "aname": "2016-Feb",
+      "name":  "22 Feb 2016",
+      "meetup_url": "https://www.meetup.com/Groupe-dutilisateurs-Python-Grenoble/events/236361368/",
+      "talks": [
+        {
+          "speaker":     "Benoit Brayer",
+          "title":       "Elasticsearch pour Django",
+          "slides_url":   "",
+          "slides_image": "",
+          "code":         "",
+        },
+       ],
+    },
+    { ## ---- Mar. 2016 ------------------------------------------------------------ ##
+      "aname": "2016-Mar",
+      "name":  "15 Mar 2016",
+      "meetup_url": "https://www.meetup.com/Groupe-dutilisateurs-Python-Grenoble/events/236361470/",
+      "talks": [
+        {
+          "speaker":     "Olivier Mathieu",
+          "title":       "Le Langage Julia",
+          "slides_url":   "",
+          "slides_image": "",
+          "code":         "",
+        },
+       ],
+    },
+    { ## ---- Apr. 2016 ------------------------------------------------------------ ##
+      "aname": "2016-Apr",
+      "name":  "12 Apr 2016",
+      "meetup_url": "https://www.meetup.com/Groupe-dutilisateurs-Python-Grenoble/events/236361537/",
+      "talks": [
+        {
+          "speaker":     "Mike Bright et Rene Ribaud",
+          "title":       "Docker et Python, Python et Docker",
+          "slides_url":   "",
+          "slides_image": "",
+          "code":         "",
+        },
+       ],
+    }
 
 ]
 
